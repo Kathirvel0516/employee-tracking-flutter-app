@@ -21,7 +21,7 @@ A Flutter application developed to extend the HRMS platform with mobile workforc
 - Google Sheets
 
 ## Demo Video Link
-Linkedin : https://www.linkedin.com/posts/
+Linkedin : https://www.linkedin.com/posts/kathirvel-m-5b95bb390_flutter-mobiledevelopment-fullstackdevelopment-activity-7459234802064498688-Qpdf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGAyhJ0BLlYJT9zo-5ppLzVekrrdvSdmaQg
 
 
 
