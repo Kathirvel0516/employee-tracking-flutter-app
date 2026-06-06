@@ -1,17 +1,30 @@
-# hunterworkhub_app
+# Smart Employee Tracking App
 
-A new Flutter project.
+A Flutter application developed to extend the HRMS platform with mobile workforce tracking and attendance automation.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Real-Time GPS Tracking
+- Google Maps Integration
+- Daily Task Monitoring
+- Auto Visit Detection
+- GPS-Based Attendance
+- Employee Activity Tracking
+- Day Summary Reports
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Flutter
+- Dart
+- Google Maps API
+- Google Apps Script
+- Google Sheets
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo Video Link
+Linkedin : https://www.linkedin.com/posts/
+
+
+
+## Integration
+
+Integrated with the Smart HRMS Web Platform.
